@@ -1,0 +1,10 @@
+com\app\main\Aplicacao2\recursos\PDVRepositorio.class
+com\app\main\Aplicacao2\App.class
+com\app\main\Aplicacao2\multitenancy\TenantFilter.class
+com\app\main\Aplicacao2\recursos\PontoDeVenda.class
+com\app\main\Aplicacao2\multitenancy\PDVService.class
+com\app\main\Aplicacao2\recursos\PDVResource.class
+com\app\main\Aplicacao2\App$1.class
+com\app\main\Aplicacao2\multitenancy\TenantSupport.class
+com\app\main\Aplicacao2\multitenancy\TenantContext.class
+com\app\main\Aplicacao2\recursos\LeitorDeCSV.class
